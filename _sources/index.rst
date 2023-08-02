@@ -1,6 +1,6 @@
-=======================
-The Runestone Blue Book
-=======================
+==============================
+Intro to Software Engineering
+==============================
 
 .. Here is were you specify the content and order of your new book.
 
@@ -18,7 +18,7 @@ The Runestone Blue Book
    :align: center
 
            
-Why a Blue Book?
+CEN 3031
 ================
 
 Some instructors want a book with no existing content that they can simply customize by creating their own assignments and exams.  This is that book and hence the name Blue Book
